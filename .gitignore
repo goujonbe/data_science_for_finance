@@ -1,2 +1,7 @@
 .gitsecret/keys/random_seed
 config.py
+.ipynb_checkpoints/
+__pycache__/
+.gitsecret/
+config.py.secret
+
